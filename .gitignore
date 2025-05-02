@@ -17,3 +17,9 @@ local.properties
 # Project exclude paths
 /app/
 /gradle/
+/.idea/AndroidProjectSystem.xml
+/.idea/compiler.xml
+/.idea/deploymentTargetSelector.xml
+/.idea/gradle.xml
+/.idea/migrations.xml
+/.idea/runConfigurations.xml
